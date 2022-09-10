@@ -20,7 +20,7 @@ li {
  align-items: center;
  justify-content: space-between;
  padding: 20px;
- background-color: teal;
+ background-color: black;
  color: #fff;
 }
 .nav-links a {
@@ -87,7 +87,7 @@ input[type=checkbox]{
 .menu { 
  display:none;
  position: absolute;
- background-color:teal;
+ background-color:black;
  right: 0;
  left: 0;
  text-align: center;
